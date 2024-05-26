@@ -1,0 +1,360 @@
+Vœux de l'étudiant Taylor (ID: 32):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Harrington (ID: 42):
+Actuariat
+ModMathFinance
+IngFinance
+Vœux de l'étudiant Chapman (ID: 50):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Hess (ID: 4):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Thompson (ID: 13):
+CyberSecurite
+IA
+VisualComputing
+Vœux de l'étudiant Johnson (ID: 2):
+CyberSecurite
+IA
+VisualComputing
+Vœux de l'étudiant Garrett (ID: 72):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Nelson (ID: 14):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Smith (ID: 89):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Dennis (ID: 3):
+CyberSecurite
+IA
+VisualComputing
+Vœux de l'étudiant Walton (ID: 71):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Johnson (ID: 98):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Fox (ID: 54):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Owen (ID: 93):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Jefferson (ID: 63):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Chapman (ID: 43):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Bowers (ID: 77):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Johnson (ID: 45):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Smith (ID: 78):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Perez (ID: 22):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Herrera (ID: 81):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Santos (ID: 61):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Odom (ID: 34):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Drake (ID: 21):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Clark (ID: 36):
+CyberSecurite
+IA
+VisualComputing
+Vœux de l'étudiant Rosario (ID: 46):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Abbott (ID: 25):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Henderson (ID: 97):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Brown (ID: 30):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Brady (ID: 1):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Todd (ID: 87):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Garcia (ID: 67):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Rich (ID: 41):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Perez (ID: 34):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Bowen (ID: 93):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Dawson (ID: 59):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Stone (ID: 75):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Smith (ID: 50):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Thomas (ID: 7):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Martin (ID: 26):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Walker (ID: 47):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Johnson (ID: 95):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Davidson (ID: 42):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Moore (ID: 77):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Burgess (ID: 88):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Marsh (ID: 66):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Bryant (ID: 53):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Haney (ID: 4):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Tucker (ID: 29):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant White (ID: 89):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Harris (ID: 57):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Bolton (ID: 44):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Deleon (ID: 76):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Velazquez (ID: 13):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Clarke (ID: 86):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Wheeler (ID: 12):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Fuller (ID: 85):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Davis (ID: 14):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Gomez (ID: 35):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Baker (ID: 27):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Brown (ID: 72):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant James (ID: 22):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Morrison (ID: 81):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Yu (ID: 38):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Gonzalez (ID: 52):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Andrade (ID: 96):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Alvarado (ID: 74):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Fields (ID: 32):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Alexander (ID: 16):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Bowman (ID: 39):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Berry (ID: 65):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Williams (ID: 69):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Oliver (ID: 28):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Rose (ID: 64):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Smith (ID: 90):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Andrade (ID: 78):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Fuller (ID: 3):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Cooper (ID: 46):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Dunn (ID: 21):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Johnston (ID: 17):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Hopkins (ID: 43):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Thompson (ID: 36):
+CyberSecurite
+IA
+VisualComputing
+Vœux de l'étudiant Johnson (ID: 15):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Fischer (ID: 83):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Woodward (ID: 45):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Perez (ID: 2):
+ModMathFinance
+IngFinance
+Actuariat
+Vœux de l'étudiant Hanson (ID: 31):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Bryant (ID: 48):
+DataScience
+HPDA
+DDD
+Vœux de l'étudiant Lee (ID: 68):
+VisualComputing
+CyberSecurite
+IA
+Vœux de l'étudiant Jaankins (ID: 8):
+ModMathFinance
+IngFinance
+Actuariat
